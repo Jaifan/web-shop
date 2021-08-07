@@ -1,7 +1,8 @@
 {
-  "homepage": "http://gitname.github.io/web-commerce-app",
+  "homepage": "http://Jaifan.github.io/web-commerce-app",
   "name": "web-shop",
   "version": "0.1.0",
+
   "private": true,
   "dependencies": {
     "@chec/commerce.js": "^2.7.0",
